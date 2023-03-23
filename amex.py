@@ -6,9 +6,8 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from credentials import amex_username, amex_password
 
-username = "your_amex_username"
-password = "your_amex_password"
 download_folder = "/path/to/download/folder"
 
 def setup_webdriver(download_folder):

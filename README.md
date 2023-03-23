@@ -1,0 +1,1 @@
+Work in progress to automate the downloading of statements for easy renaming and sending to accountant or for personal storage. 
